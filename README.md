@@ -123,11 +123,10 @@ Users can filter the dashboard by **Region** to dynamically analyze performance.
 
 ## 📸 Dashboard Preview
 
-<img width="1165" height="657" alt="Screenshot 2026-08-16 050445" src="https://github.com/user-attachments/assets/08a69cdd-fc27-403d-9a1b-7c93d6639f69" />
-
-
+<img width="1165" height="657" alt="Product Sales Performance Dashboard" src="https://github.com/user-attachments/assets/08a69cdd-fc27-403d-9a1b-7c93d6639f69">
 
 ![Product Sales Dashboard](Dashboard/Product_Sales_Dashboard.png)
+
 
 ---
 
