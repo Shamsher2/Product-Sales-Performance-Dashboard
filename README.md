@@ -12,6 +12,11 @@ The dashboard helps identify top-performing products, high-revenue categories, r
 
 <a href="https://github.com/Shamsher2/Product-Sales-Performance-Dashboard/blob/main/Screenshot%202026-08-16%20050445.png">📊 View Dashboard Screenshot</a>
 
+
+<img width="1165" height="657" alt="Screenshot 2026-08-16 050445" src="https://github.com/user-attachments/assets/017a4ab0-83cf-472b-b7dd-8b8aef7e2bef" />
+
+
+
 ## 🎯 Business Objectives
 
 * Analyze overall revenue and profit performance.
@@ -117,15 +122,6 @@ Users can filter the dashboard by **Region** to dynamically analyze performance.
 * Product Performance Analysis
 * Business Insights
 * Interactive Data Visualization
-
-
-```
-
-
-
-## 📊 Dashboard Preview
-
-
 
 
 ---
