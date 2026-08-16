@@ -125,9 +125,7 @@ Users can filter the dashboard by **Region** to dynamically analyze performance.
 
 ## 📊 Dashboard Preview
 
-<img src="https://github.com/user-attachments/assets/08a69cdd-fc27-403d-9a1b-7c93d6639f69" width="100%" alt="Product Sales Performance Dashboard">
 
-![Product Sales Dashboard](Dashboard/Product_Sales_Dashboard.png)
 
 
 ---
